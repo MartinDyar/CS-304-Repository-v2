@@ -12,5 +12,5 @@ This program allows the user to input two groups of ten doubles which will be re
 # Function 2
 
 * **Variables**
-  *`vector<double> set_3(10)` - takes the third set of doubles the user inputs
-  *`double shift` - takes the number of times the user wishes to shift the vector's order
+  * `vector<double> set_3(10)` - takes the third set of doubles the user inputs
+  * `double shift` - takes the number of times the user wishes to shift the vector's order
