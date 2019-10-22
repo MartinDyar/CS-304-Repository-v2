@@ -1,4 +1,5 @@
-# Understanding Vectors and How They Work Project Summary
+# Understanding Vectors and How They Work 
+# Project Summary
 This program allows the user to input two groups of ten doubles which will be read into two different vectors. From there, the program will output what the user input into the two different vectors and also output the summation and production of the two different vectors in their own respective vectors. This all occurs within the first function, while in the second function the user inputs another set of ten doubles and is also asked how many times they would like vector shifted. As a whole, this program serves as a good example and introduction of how doubles in vectors can be organized and changed.
 
 # Function 1
